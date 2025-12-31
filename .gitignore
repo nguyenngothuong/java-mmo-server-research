@@ -1,0 +1,34 @@
+# IDE Files
+.idea/
+.vscode/
+nbproject/
+*.iml
+*.ipr
+*.iws
+
+# Java Build Artifacts
+target/
+build/
+dist/
+out/
+*.class
+
+# Logs
+logs/
+*.log
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Docker
+# docker-compose.yml (Keep this if you want to share the docker setup)
+
+# Misc
+*.bak
+*.tmp
+
+# Exclude Binary Client & Sensitive DB
+Arriety/Dragonboy_vn_v230/
+Arriety/arriety.sql
